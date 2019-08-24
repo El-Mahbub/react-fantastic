@@ -1,6 +1,6 @@
 {
   "name": "react-fantastic",
-  "version": "1.0.5",
+  "version": "0.0.1",
   "description": "Fantastic react component library",
   "main": "libs/index.js",
   "scripts": {
